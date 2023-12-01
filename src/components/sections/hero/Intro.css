@@ -1,0 +1,21 @@
+.class {
+    display: flex;
+    justify-content: center;
+}
+.class1 {
+    width: 60%;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 2rem;
+    color: black;
+    box-shadow: 1rem whitesmoke;
+    padding: 3rem;
+    margin: 4rem;
+    font-size: 1.2rem;
+    font-family: Arial, sans-serif;
+}
+
+.class3 {
+    font-size: 1.3rem;
+    color: white;
+}
